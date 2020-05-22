@@ -13,10 +13,13 @@ struct _stinfo
 //a-1,b-2 --> a-2,b-1
 int swap(int a, int b) {
 	int temp = a;
+
 	a = b;
 	b = temp;
 	return 1;
 }
+
+
 
 
 int swap(int* pa, int* pb) {
