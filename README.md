@@ -1,6 +1,3 @@
-## 📂cpp-basic
-### ✏️1일(2020-05-20)
-
 step01.cpp
 - c++ 장점
 - hellow world!
@@ -15,7 +12,6 @@ step03.cpp
 - 반복문 for, 조건문 if 예제) 구구단출력
 - 반복문 for, 조건문 if 예제) 히스토그램
 
-### ✏️2일(2020-05-21)
 stp04.cpp
 - class
 - class 별도 파일로 분리(MyFirstClass.cpp)
@@ -39,7 +35,6 @@ step08.cpp
 - deafault function
 - method overroding
 
-### ✏️3일(2020-05-22)
 stp09.cpp
 - static
 
@@ -58,8 +53,6 @@ step12.cpp, step13.cpp
 step14.cpp
 - template
 
-
-### ✏️4일(2020-05-25)
 step15.cpp
 - fuction/class template
 
@@ -70,5 +63,3 @@ step16.cpp
 
 step17.cpp
 - abstraclass,vector exemple
-
-
